@@ -1,8 +1,8 @@
-\# Click \& Coffee — Banco de Dados PostgreSQL / Supabase
+ Click \& Coffee — Banco de Dados PostgreSQL / Supabase
 
 
 
-\## 1. Apresentação
+1. Apresentação
 
 
 
@@ -14,7 +14,7 @@ Este repositório disponibiliza os scripts SQL referentes à implementação do 
 
 
 
-\## 2. Objetivo
+2. Objetivo
 
 
 
@@ -22,7 +22,7 @@ Demonstrar a estrutura, os relacionamentos, as regras de negócio e os mecanismo
 
 
 
-\## 3. Tecnologias utilizadas
+ 3. Tecnologias utilizadas
 
 
 
@@ -36,27 +36,27 @@ Demonstrar a estrutura, os relacionamentos, as regras de negócio e os mecanismo
 
 
 
-\## 4. Inventário técnico consolidado
+4. Inventário técnico consolidado
 
 
 
-| Componente | Quantidade |
+| Componente-----------------|---Quantidade--|
 
-|---|---:|
+|----------------------------|---------------|
 
-| Tabelas | 21 |
+| Tabelas--------------------|-------21------|
 
-| Colunas | 166 |
+| Colunas -------------------|-------166-----|
 
-| Chaves estrangeiras | 28 |
+| Chaves estrangeiras--------|--------28-----|
 
-| Índices válidos | 63 |
+| Índices válidos------------|--------63-----|
 
-| Funções | 35 |
+| Funções--------------------|--------35-----|
 
-| Políticas RLS | 60 |
+| Políticas RLS -------------|--------60-----|
 
-| Tabelas com RLS habilitada | 21 |
+| Tabelas com RLS habilitada-|--------21-----|
 
 
 
@@ -64,11 +64,11 @@ Os quantitativos correspondem ao inventário técnico consolidado durante o dese
 
 
 
-\## 5. Organização dos arquivos
+5. Organização dos arquivos
 
 
 
-\### Pasta `sql`
+Pasta `sql`
 
 
 
@@ -78,7 +78,7 @@ Os quantitativos correspondem ao inventário técnico consolidado durante o dese
 
 
 
-\## 6. Segurança
+ 6. Segurança
 
 
 
@@ -90,7 +90,7 @@ Os scripts são disponibilizados para fins de documentação e avaliação acad�
 
 
 
-\## 7. Arquitetura prevista
+7. Arquitetura prevista
 
 
 
@@ -98,11 +98,11 @@ A arquitetura do sistema está organizada conceitualmente em três camadas:
 
 
 
-\- \*\*Apresentação:\*\* interfaces destinadas a clientes e administradores.
+\- \*\*Apresentação:\*\* - interfaces destinadas a clientes e administradores.
 
-\- \*\*Aplicação:\*\* back-end Python responsável pelos serviços e regras de negócio.
+\- \*\*Aplicação:\*\* - back-end Python responsável pelos serviços e regras de negócio.
 
-\- \*\*Persistência:\*\* PostgreSQL/Supabase, responsável pelos dados e mecanismos de segurança.
+\- \*\*Persistência:\*\* -  PostgreSQL/Supabase, responsável pelos dados e mecanismos de segurança.
 
 
 
@@ -110,7 +110,7 @@ A implementação do front-end e do back-end está prevista para etapas futuras.
 
 
 
-\## 8. Limitações
+ 8. Limitações
 
 
 
@@ -122,7 +122,7 @@ Os módulos específicos de fidelidade e recomendações permanecem previstos pa
 
 
 
-\## 9. Finalidade do repositório
+ 9. Finalidade do repositório
 
 
 
@@ -130,5 +130,5 @@ Este repositório foi organizado para apresentação acadêmica, documentação 
 
 
 
-\*\*Ano:\*\* 2026
+13/11/2026
 
